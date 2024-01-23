@@ -3,4 +3,49 @@
 	url = https://github.com/pmmp/DevTools.git
 [submodule "build/php"]
 	path = build/php
-	url = https://github.com/NetherGamesMC/php-build-scripts.git
+	url = https://github.com/pmmp/php-build-scripts.git
+[submodule "plugin_source/PokeSidebar"]
+	path = plugin_source/PokeSidebar
+	url = https://github.com/Pocketmobs/PokeSidebar.git
+[submodule "plugin_source/StarterPacks"]
+	path = plugin_source/StarterPacks
+	url = https://github.com/Pocketmobs/StarterPacks.git
+[submodule "plugin_source/Crates"]
+	path = plugin_source/Crates
+	url = https://github.com/Pocketmobs/Crates.git
+[submodule "plugin_source/Pokemon"]
+	path = plugin_source/Pokemon
+	url = https://github.com/Pocketmobs/Pokemon.git
+[submodule "plugin_source/PokeDex"]
+	path = plugin_source/PokeDex
+	url = https://github.com/Pocketmobs/PokeDex.git
+[submodule "plugin_source/Group"]
+	path = plugin_source/Group
+	url = https://github.com/Pocketmobs/Group.git
+[submodule "plugin_source/Coins"]
+	path = plugin_source/Coins
+	url = https://github.com/Pocketmobs/Coins.git
+[submodule "plugin_source/Account"]
+	path = plugin_source/Account
+	url = https://github.com/Pocketmobs/Account.git
+[submodule "plugin_source/Level"]
+	path = plugin_source/Level
+	url = https://github.com/Pocketmobs/Level.git
+[submodule "plugin_source/Teleports"]
+	path = plugin_source/Teleports
+	url = https://github.com/Pocketmobs/Teleports.git
+[submodule "plugin_source/Claims"]
+	path = plugin_source/Claims
+	url = https://github.com/Pocketmobs/Claims.git
+[submodule "plugin_source/PokeItem"]
+	path = plugin_source/PokeItem
+	url = https://github.com/Pocketmobs/PokeItem.git
+[submodule "plugin_source/PokeballAPI"]
+	path = plugin_source/PokeballAPI
+	url = https://github.com/Pocketmobs/PokeballAPI.git
+[submodule "plugin_source/Compass"]
+	path = plugin_source/Compass
+	url = https://github.com/Pocketmobs/Compas.git
+[submodule "plugin_source/PokemonUI"]
+	path = plugin_source/PokemonUI
+	url = https://github.com/Pocketmobs/PokemonUI.git
