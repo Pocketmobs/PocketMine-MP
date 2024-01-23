@@ -49,3 +49,4 @@
 [submodule "plugin_source/PokemonUI"]
 	path = plugin_source/PokemonUI
 	url = https://github.com/Pocketmobs/PokemonUI.git
+
